@@ -1,3 +1,4 @@
 .video-js.vjs-mouse .vjs-big-play-button {
   border-radius: 0%;
+  margin-left: -50px;
 }
