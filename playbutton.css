@@ -2,3 +2,7 @@
   border-radius: 0%;
   margin-left: -50px;
 }
+
+.video-js.vjs-play-button-shape-square .vjs-big-play-button {
+  border-radius: 0%;
+}
